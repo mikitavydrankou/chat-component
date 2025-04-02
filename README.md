@@ -1,1 +1,1 @@
-# wirechat-component
+# chat-component
